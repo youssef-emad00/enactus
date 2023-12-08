@@ -1,0 +1,42 @@
+
+div{
+    width: 270px;
+    height: 80px;
+}
+
+
+.p1{
+margin-left: 10px ;
+} 
+
+.imgp1{ width: 320px;
+    height: 280px;
+    margin-top: 70px;
+}
+
+.p2{
+    margin-left: 380px;
+}
+
+.imgp2{ width: 320px;
+    height: 280px;
+    margin-top: -10px;
+}
+
+.p3{
+    margin-left: 750px ;
+}
+
+.imgp3{ width: 320px;
+    height: 280px;
+    margin-top: -90px;
+}
+
+.p4{
+    margin-left: 1120px;
+}
+
+.imgp4{ width: 320px;
+    height: 280px;
+    margin-top: -170px;
+}
